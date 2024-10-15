@@ -1,0 +1,24 @@
+body {
+  background-color:antiquewhite;
+  font-family: 'Courier New', Arial, serif;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+img {
+  height: auto;
+}
+
+.shawarma-image {
+  width: 512px;
+}
+
+.pizza-image {
+  width: 683px;
+}
+
+.pigs-in-a-blanket-image {
+  width: 683px;
+}
