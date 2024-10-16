@@ -3,8 +3,27 @@ body {
   font-family: 'Courier New', Arial, serif;
 }
 
+.page-content {
+  width: 400px;
+  margin: 0 auto;
+  padding: 8px;
+  background-color: aliceblue;
+  text-align: center;
+}
+
+.page-block {
+  display: block;
+  margin: 8px auto;
+}
+
+a {
+  font-size: 20px;
+  padding: 6px;
+}
+
 h1 {
   color: goldenrod;
+  font-size: 42px;
 }
 
 img {
